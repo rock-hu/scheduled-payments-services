@@ -1,11 +1,18 @@
 # scheduled-payments-services
 
+📚 Getting Started
+
 ## maven
 
 ```bash
 
 mvn spotless:apply
 ```
+
+🤝 Contribution
+
+![Alt](https://repobeats.axiom.co/api/embed/dab2d0fe94928104a6f722a9754101f39af36a3b.svg "Repobeats analytics image")
+
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=rock-hu_scheduled-payments-services)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_scheduled-payments-services&metric=bugs)](https://sonarcloud.io/summary/new_code?id=rock-hu_scheduled-payments-services)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=rock-hu_scheduled-payments-services&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=rock-hu_scheduled-payments-services)
