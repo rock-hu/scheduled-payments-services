@@ -8,7 +8,7 @@
     </parent>
     <groupId>com.openbanking.scheduled.payments</groupId>
     <artifactId>scheduled-payments-services</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>scheduled-payments-services</name>
     <properties>
@@ -514,7 +514,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <fork>false</fork>
-                    <mainClass>com.openbanking.scheduled.payments.Application</mainClass>
+                    <jmxPort>9002</jmxPort>
                     <jvmArguments>-Dspring.application.admin.enabled=true
             -Xms128m
             -Xmx256m

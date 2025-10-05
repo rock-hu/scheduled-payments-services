@@ -120,5 +120,4 @@ paths:
                 $ref: "#/components/schemas/OBReadScheduledPayment3"
 components:
   schemas:
-    OBReadScheduledPayment3:
-      type: object
+    OBReadScheduledPayment3: {}
